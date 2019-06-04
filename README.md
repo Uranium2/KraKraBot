@@ -13,3 +13,9 @@
 # Pour quitter l'environnement:
 
 	deactivate
+	
+# Boite à idées
+
+Recup le nombre de mineurs sur nicehash ou pool Bitcoin et la difficulté de minage en plus des trends basique.
+
+Normaliser les valeurs
