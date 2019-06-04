@@ -21,15 +21,17 @@ historical_interest_bad = pytrend.get_historical_interest(bad, year_start=2019, 
 historical_interest_bad = historical_interest_bad.drop(labels='isPartial', axis=1) 
 shortBad = historical_interest_bad.sum(axis = 0, skipna = True)
 #print(shortBad)
-
-#print("GOOD GOOGLE TREND:")
-#historical_interest_good = pytrend.get_historical_interest(good, year_start=2019, month_start=3, day_start=1, hour_start=0, year_end=2019, month_end=4, day_end=5, hour_end=0, cat=0, geo='', gprop='', sleep=0)
-#shortGood = historical_interest_good.sum(axis = 0, skipna = True)
-#print(shortGood)
-
 historical_interest_bad.to_csv("historical_interest_bad.csv", sep=',')
+dfBad = pd.read_csv('historical_interest_bad.csv', skiprows=1, index_col='date', names=['date', 'bitcoin', 'crash', 'ban', 'loss'])
+dfBad.plot()
+plt.show()
 
-df = pd.read_csv('historical_interest_bad.csv', skiprows=1, index_col='date', names=['date', 'bitcoin', 'crash', 'ban', 'loss'])
-
-df.plot()
+print("GOOD GOOGLE TREND:")
+historical_interest_good = pytrend.get_historical_interest(good, year_start=2019, month_start=3, day_start=1, hour_start=0, year_end=2019, month_end=4, day_end=5, hour_end=0, cat=0, geo='', gprop='', sleep=0)
+historical_interest_good = historical_interest_good.drop(labels='isPartial', axis=1) 
+shortGood = historical_interest_good.sum(axis = 0, skipna = True)
+#print(shortGood)
+historical_interest_good.to_csv("historical_interest_good.csv", sep=',')
+dfGood = pd.read_csv('historical_interest_good.csv', skiprows=1, index_col='date', names=['date', 'bitcoin', 'rise', 'skyrocket', 'gain', 'bubble'])
+dfGood.plot()
 plt.show()
