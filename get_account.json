@@ -1,0 +1,178 @@
+[
+    {
+        "available": "0",
+        "balance": "0.0000000000000000",
+        "currency": "ZRX",
+        "hold": "0.0000000000000000",
+        "id": "68ec59a9-e65e-4d9b-b220-958cf8400b01",
+        "profile_id": "1236049a-3a95-4d23-8a7d-e9095f959c9f"
+    },
+    {
+        "available": "0",
+        "balance": "0.0000000000000000",
+        "currency": "ZIL",
+        "hold": "0.0000000000000000",
+        "id": "8767a8e2-c3fe-4ba7-b2b1-799c45042162",
+        "profile_id": "1236049a-3a95-4d23-8a7d-e9095f959c9f"
+    },
+    {
+        "available": "0",
+        "balance": "0.0000000000000000",
+        "currency": "ZEC",
+        "hold": "0.0000000000000000",
+        "id": "cb3d6d11-79e1-4e7c-8989-c40554ade36b",
+        "profile_id": "1236049a-3a95-4d23-8a7d-e9095f959c9f"
+    },
+    {
+        "available": "0",
+        "balance": "0.0000000000000000",
+        "currency": "XRP",
+        "hold": "0.0000000000000000",
+        "id": "8422ca88-515a-4637-8810-55ebeba29831",
+        "profile_id": "1236049a-3a95-4d23-8a7d-e9095f959c9f"
+    },
+    {
+        "available": "0.174103050054",
+        "balance": "0.1741030500540000",
+        "currency": "BTC",
+        "hold": "0.0000000000000000",
+        "id": "8ce4480a-e162-44bc-a072-d7aeaf12bd77",
+        "profile_id": "1236049a-3a95-4d23-8a7d-e9095f959c9f"
+    },
+    {
+        "available": "0",
+        "balance": "0.0000000000000000",
+        "currency": "XLM",
+        "hold": "0.0000000000000000",
+        "id": "9dc69754-3dd9-4e28-8862-487b335280c3",
+        "profile_id": "1236049a-3a95-4d23-8a7d-e9095f959c9f"
+    },
+    {
+        "available": "0",
+        "balance": "0.0000000000000000",
+        "currency": "USDC",
+        "hold": "0.0000000000000000",
+        "id": "84d31d94-7f33-4fea-90f0-81667bdd2a5c",
+        "profile_id": "1236049a-3a95-4d23-8a7d-e9095f959c9f"
+    },
+    {
+        "available": "0",
+        "balance": "0.0000000000000000",
+        "currency": "REP",
+        "hold": "0.0000000000000000",
+        "id": "7fda9e03-227f-4c98-8776-10ba111a5bb1",
+        "profile_id": "1236049a-3a95-4d23-8a7d-e9095f959c9f"
+    },
+    {
+        "available": "0",
+        "balance": "0.0000000000000000",
+        "currency": "MKR",
+        "hold": "0.0000000000000000",
+        "id": "4dc2d173-5070-415e-8126-fa23fe2201c7",
+        "profile_id": "1236049a-3a95-4d23-8a7d-e9095f959c9f"
+    },
+    {
+        "available": "0",
+        "balance": "0.0000000000000000",
+        "currency": "MANA",
+        "hold": "0.0000000000000000",
+        "id": "96917bc7-68f5-4162-b1f8-3e9be43495a8",
+        "profile_id": "1236049a-3a95-4d23-8a7d-e9095f959c9f"
+    },
+    {
+        "available": "0",
+        "balance": "0.0000000000000000",
+        "currency": "LTC",
+        "hold": "0.0000000000000000",
+        "id": "074c63e0-7f3a-415b-89c7-67cb2bd0071e",
+        "profile_id": "1236049a-3a95-4d23-8a7d-e9095f959c9f"
+    },
+    {
+        "available": "0",
+        "balance": "0.0000000000000000",
+        "currency": "LOOM",
+        "hold": "0.0000000000000000",
+        "id": "cb4ac279-09ab-4c06-a1f9-8de47dbf85fd",
+        "profile_id": "1236049a-3a95-4d23-8a7d-e9095f959c9f"
+    },
+    {
+        "available": "0",
+        "balance": "0.0000000000000000",
+        "currency": "GNT",
+        "hold": "0.0000000000000000",
+        "id": "5b75539d-1aea-4a34-9e7d-93d00a5729fe",
+        "profile_id": "1236049a-3a95-4d23-8a7d-e9095f959c9f"
+    },
+    {
+        "available": "0.00952755862675",
+        "balance": "0.0095275586267500",
+        "currency": "EUR",
+        "hold": "0.0000000000000000",
+        "id": "3017508b-2cba-40cd-9a6e-6d27a3be8485",
+        "profile_id": "1236049a-3a95-4d23-8a7d-e9095f959c9f"
+    },
+    {
+        "available": "0.31295477",
+        "balance": "0.3129547700000000",
+        "currency": "ETH",
+        "hold": "0.0000000000000000",
+        "id": "bd4e1750-d1d6-4f4a-b08d-207de1745d9f",
+        "profile_id": "1236049a-3a95-4d23-8a7d-e9095f959c9f"
+    },
+    {
+        "available": "0",
+        "balance": "0.0000000000000000",
+        "currency": "ETC",
+        "hold": "0.0000000000000000",
+        "id": "e2390beb-ea3c-4bf2-aa79-47c8b889931c",
+        "profile_id": "1236049a-3a95-4d23-8a7d-e9095f959c9f"
+    },
+    {
+        "available": "0",
+        "balance": "0.0000000000000000",
+        "currency": "EOS",
+        "hold": "0.0000000000000000",
+        "id": "791d8437-e691-4c14-98b2-2cfcbf4d9d9a",
+        "profile_id": "1236049a-3a95-4d23-8a7d-e9095f959c9f"
+    },
+    {
+        "available": "0",
+        "balance": "0.0000000000000000",
+        "currency": "DNT",
+        "hold": "0.0000000000000000",
+        "id": "22e66ea4-3e69-4617-b20d-9720fe19dc95",
+        "profile_id": "1236049a-3a95-4d23-8a7d-e9095f959c9f"
+    },
+    {
+        "available": "0",
+        "balance": "0.0000000000000000",
+        "currency": "DAI",
+        "hold": "0.0000000000000000",
+        "id": "c1fa0e01-57f1-415a-8e17-1547eb1e3322",
+        "profile_id": "1236049a-3a95-4d23-8a7d-e9095f959c9f"
+    },
+    {
+        "available": "0",
+        "balance": "0.0000000000000000",
+        "currency": "CVC",
+        "hold": "0.0000000000000000",
+        "id": "2b94dfc1-1e42-4038-98e3-d97daa19e596",
+        "profile_id": "1236049a-3a95-4d23-8a7d-e9095f959c9f"
+    },
+    {
+        "available": "0",
+        "balance": "0.0000000000000000",
+        "currency": "BCH",
+        "hold": "0.0000000000000000",
+        "id": "cc4a8277-9ce4-40c3-bcd5-02cfba183f4c",
+        "profile_id": "1236049a-3a95-4d23-8a7d-e9095f959c9f"
+    },
+    {
+        "available": "0",
+        "balance": "0.0000000000000000",
+        "currency": "BAT",
+        "hold": "0.0000000000000000",
+        "id": "0401c358-2f8e-4450-81a1-8bd578cd94c9",
+        "profile_id": "1236049a-3a95-4d23-8a7d-e9095f959c9f"
+    }
+]
